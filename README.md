@@ -4,6 +4,8 @@ This repository contains slides and hands-on labs for the Platform Engineering b
 
 # Slides
 [Course Slides](slides)  
+# Lab environment details 
+- [Lab environment details](https://docs.google.com/spreadsheets/d/1wELxmo7cHQ9nQfpYVIlZUCBp5iRC0v1ifqvsTtLjZDU/edit?gid=0#gid=0)
 
 ## VCS Labs
 
